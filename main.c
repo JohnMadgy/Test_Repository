@@ -8,5 +8,7 @@ int main()
     int y=6;
 
     printf("Hello world!\n");
+    printf("Hello GIThub!\n");
+
     return 0;
 }
